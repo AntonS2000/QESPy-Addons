@@ -1,7 +1,7 @@
 <p>
   <big>BSD 3-Clause License</big>
 
-  Copyright (c) 2023-2024, <a href="https://github.com/Moskvich2020">Cristi Constantin (Moskvich2020)</a>
+  Copyright (c) 2022-2024, <a href="https://github.com/AntonS2000">Anton Shkilevich (AntonS2000)</a>
 
   Распространение и использование в исходной и бинарной форме, с модификациями или без них, разрешено при соблюдении следующих условий:
 
